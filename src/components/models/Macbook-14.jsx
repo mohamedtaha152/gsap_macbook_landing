@@ -57,8 +57,3 @@ useEffect(() => {
 }
 
 useGLTF.preload('/models/macbook-14-transformed.glb')
-
-  )
-}
-
-useGLTF.preload('/models/macbook-14-transformed.glb')
