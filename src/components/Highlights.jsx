@@ -57,7 +57,3 @@ const Highlights = () => {
     )
 }
 export default Highlights
-        </section>
-    )
-}
-export default ProductViewer
