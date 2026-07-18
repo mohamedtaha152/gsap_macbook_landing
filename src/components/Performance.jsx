@@ -96,4 +96,4 @@ const Performance = () => {
         </section>
     )
 }
-export default Performance
+export default Performance 
